@@ -1,7 +1,7 @@
 ## Olá, sou desenvolvedor de software focado principalmente em back-end e C#
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grmglib&show_icons=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grmglib&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://acedev003-readme-stats.vercel.app/api?username=Grmglib&show_icons=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Grmglib&theme=aura)](https://acedev003-readme-stats.vercel.app)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Glib-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
