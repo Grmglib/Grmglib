@@ -1,4 +1,4 @@
-## Olá, sou desenvolvedor de software focado principalmente em back-end e C#
+## Hi, I'm a software developer focused mainly on backend and C#
 
 [![Gabriel's GitHub stats](https://acedev003-readme-stats.vercel.app/api?username=Grmglib&show_icons=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Grmglib&theme=aura)](https://acedev003-readme-stats.vercel.app)
